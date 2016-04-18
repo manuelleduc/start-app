@@ -1,7 +1,7 @@
 {
   "version": "2.0.2",
   "license": "BEERWARE",
-  "repository": ".",
+  "repository": "https://github.com/manuelleduc/start-app.git",
   "summary": "start making HTML apps really easily",
   "source-directories": [ "src" ],
   "exposed-modules" : [ "StartApp", "StartApp.Simple" ],
